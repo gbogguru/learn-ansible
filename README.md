@@ -1,2 +1,1 @@
 # learn-ansible
-Learn Ansible
